@@ -1,0 +1,9 @@
+c:\users\nitin\documents\visual studio 2013\Projects\MINI Telephone Diary\MINI Telephone Diary\bin\Debug\MINI Telephone Diary.exe.config
+C:\Users\Nitin\Documents\Visual Studio 2013\Projects\MINI Telephone Diary\MINI Telephone Diary\bin\Debug\MINI Telephone Diary.exe
+C:\Users\Nitin\Documents\Visual Studio 2013\Projects\MINI Telephone Diary\MINI Telephone Diary\bin\Debug\MINI Telephone Diary.pdb
+C:\Users\Nitin\Documents\Visual Studio 2013\Projects\MINI Telephone Diary\MINI Telephone Diary\obj\Debug\MINI Telephone Diary.csprojResolveAssemblyReference.cache
+C:\Users\Nitin\Documents\Visual Studio 2013\Projects\MINI Telephone Diary\MINI Telephone Diary\obj\Debug\MINI_Telephone_Diary.Form1.resources
+C:\Users\Nitin\Documents\Visual Studio 2013\Projects\MINI Telephone Diary\MINI Telephone Diary\obj\Debug\MINI_Telephone_Diary.Properties.Resources.resources
+C:\Users\Nitin\Documents\Visual Studio 2013\Projects\MINI Telephone Diary\MINI Telephone Diary\obj\Debug\MINI Telephone Diary.csproj.GenerateResource.Cache
+C:\Users\Nitin\Documents\Visual Studio 2013\Projects\MINI Telephone Diary\MINI Telephone Diary\obj\Debug\MINI Telephone Diary.exe
+C:\Users\Nitin\Documents\Visual Studio 2013\Projects\MINI Telephone Diary\MINI Telephone Diary\obj\Debug\MINI Telephone Diary.pdb
