@@ -2,6 +2,6 @@
 
 <ul>
 
-<li>Install Visual Studio 2013 </li>
+<li>Install Visual Studio 2013 from <a href="https://www.visualstudio.com/downloads/">here</a></li>
 
 </ul>
