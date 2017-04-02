@@ -10,4 +10,6 @@
 
 <li>Or you can create database within visual studio.</li>
 
+<li>Once you create database successfully then <b>SqlConnection con = new SqlConnection("Data Source=RAJA;Initial Catalog=PhoneEntry;Integrated Security=True");</b> in this command change Data Source to your database name and Initial Catalog to your table name.</li>
+
 </ul>
