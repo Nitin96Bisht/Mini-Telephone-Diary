@@ -6,4 +6,8 @@
 
 <li>Open project in visual studio by selecting MINI Telephone Diary.sln file.</li>
 
+<li>Create database in Microsoft SQL Server to provide database connectivity.</li>
+
+<li>Or you can create database within visual studio.</li>
+
 </ul>
