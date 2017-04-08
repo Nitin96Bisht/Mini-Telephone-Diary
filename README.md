@@ -14,7 +14,7 @@
 
 <li>Or you can create database within visual studio.</li>
 
-<li>Once you create database successfully then <br><b>SqlConnection con = new SqlConnection("Data Source=RAJA;Initial Catalog=PhoneEntry;Integrated Security=True");</b><br> in this command change Data Source to your database name and Initial Catalog to your table name by opening source code within Visual Studio.</li>
+<li>Once you create database successfully then <br><br><br><b><p>SqlConnection con = new SqlConnection("Data Source=RAJA;Initial Catalog=PhoneEntry;Integrated Security=True");</p></b><br><br><br> in the above command change Data Source to your database name and Initial Catalog to your table name by opening source code within Visual Studio.</li>
 
 <li>Once you are done with above process then run the project.</li>
 
